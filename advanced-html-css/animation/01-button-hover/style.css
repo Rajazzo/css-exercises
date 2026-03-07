@@ -17,3 +17,13 @@ button {
   padding: 16px 24px;
   text-align: center;
 }
+
+button {
+  transition: transform, background-color;
+  transition-duration: 1.5s;
+}
+
+button:hover {
+  transform: scale(3);
+  background-color: aqua;
+}
