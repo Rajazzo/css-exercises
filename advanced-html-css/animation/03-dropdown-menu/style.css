@@ -22,7 +22,8 @@
 }
 
 .test {
-  display: block;
+  display: none;
+  color: blue;
 }
 
 ul.dropdown-menu li:hover {
